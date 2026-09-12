@@ -1,0 +1,18 @@
+[
+  "temperature_c",
+  "relative_humidity_pct",
+  "wind_speed_kmh",
+  "wind_direction_deg",
+  "surface_pressure_hpa",
+  "dew_point_c",
+  "previous_24h_rainfall_mm",
+  "elevation_m",
+  "slope_deg",
+  "soil_saturation_pct",
+  "cloud_top_temp_c",
+  "cloud_optical_thickness",
+  "water_vapor_brightness_temp_k",
+  "convective_available_potential_energy",
+  "vertical_wind_shear_kts",
+  "convective_storm_index"
+]

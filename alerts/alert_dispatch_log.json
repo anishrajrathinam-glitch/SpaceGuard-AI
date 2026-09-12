@@ -1,0 +1,53 @@
+[
+  {
+    "timestamp": "2026-09-12 17:35:24 IST",
+    "recipient": "emergency.response@sdrf-demo.gov.in",
+    "location": "Chennai",
+    "probability_pct": 65.2,
+    "flood_risk_score": 90.2,
+    "overall_disaster_risk": 79.0,
+    "severity_tier": "RED",
+    "intensity": "VERY HEAVY (115.6 - 204.4 mm)",
+    "live_smtp_sent": false,
+    "status_message": "Prototype Sandbox Mode: Alert advisory generated and logged for emergency.response@sdrf-demo.gov.in. (To enable live SMTP dispatch, configure SPACEGUARD_EMAIL_SENDER & SPACEGUARD_EMAIL_PASSWORD env variables).",
+    "recommended_actions": [
+      "Monitor low-lying catchment basins and urban canals.",
+      "Pre-position District Emergency Response Teams (DDMA/SDRF).",
+      "Operate mechanical drainage pump stations and sluices.",
+      "Issue localized public safety advisories for road transit.",
+      "Prepare pre-identified evacuation routes if water levels rise."
+    ]
+  },
+  {
+    "timestamp": "2026-09-12 17:14:54 IST",
+    "recipient": "emergency.ops@imd-demo.gov.in",
+    "location": "Chennai",
+    "probability_pct": 88.0,
+    "flood_risk_score": 82.0,
+    "overall_disaster_risk": 84.7,
+    "severity_tier": "ORANGE",
+    "intensity": "EXTREMELY HEAVY (>204mm)",
+    "live_smtp_sent": false,
+    "status_message": "Prototype Sandbox Mode: Alert generated and logged for emergency.ops@imd-demo.gov.in. (To enable live SMTP dispatch, configure SPACEGUARD_EMAIL_SENDER & SPACEGUARD_EMAIL_PASSWORD env variables).",
+    "recommended_actions": [
+      "Monitor low-lying catchment basins.",
+      "Pre-position District Emergency Response Teams."
+    ]
+  },
+  {
+    "timestamp": "2026-09-12 17:12:12 IST",
+    "recipient": "emergency.ops@imd-demo.gov.in",
+    "location": "Chennai",
+    "probability_pct": 88.0,
+    "flood_risk_score": 82.0,
+    "overall_disaster_risk": 84.7,
+    "severity_tier": "ORANGE",
+    "intensity": "EXTREMELY HEAVY (>204mm)",
+    "live_smtp_sent": false,
+    "status_message": "Prototype Sandbox Mode: Alert generated and logged for emergency.ops@imd-demo.gov.in. (To enable live SMTP dispatch, configure SPACEGUARD_EMAIL_SENDER & SPACEGUARD_EMAIL_PASSWORD env variables).",
+    "recommended_actions": [
+      "Monitor low-lying catchment basins.",
+      "Pre-position District Emergency Response Teams."
+    ]
+  }
+]
